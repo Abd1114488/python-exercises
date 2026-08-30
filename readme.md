@@ -2,4 +2,14 @@
  Python exercises 
  **Abdullah**
   ## Module 1
-I completed exercises 1 and 2.
+    DONE 
+    
+  ## Module 2
+I completed the exercises.
+
+  ## Module 3
+I completed the exercises.
+
+  ## Module 4
+I completed the exercises.
+  
