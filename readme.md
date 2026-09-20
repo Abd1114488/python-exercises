@@ -24,3 +24,9 @@ I completed the exercises.
 
 ## Module 8
 I completed the exercises.
+
+## Module 9
+I completed the exercises.
+
+## Module 10
+I completed the exercises.
