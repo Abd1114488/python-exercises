@@ -1,0 +1,7 @@
+       HOW TO PLAY
+- Type a command from the menu and press Enter.
+- To travel: type move, press Enter, then type the room name for example shop and press Enter.
+- Pick up things with collect. Buy things in the shop with buy.
+- Use save to save your progress. You can continue next time.
+- Goal: bring clean water back to the village. Collect the right items,
+  go to the Village and type fix. There are 3 different ways to win.  
